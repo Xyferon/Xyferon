@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xyferon
-- 👀 I’m interested in studying and playing
-- 🌱 I’m currently learning Python, C++ and Java
+University student focused on cybersecurity and offensive operations.
+Interested in red teaming, penetration testing, and exploit development.
+Also exploring data science, machine learning, and AI applications in security.
 
 <!---
 Xyferon/Xyferon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
